@@ -1,0 +1,15 @@
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.exe
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.deps.json
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.runtimeconfig.json
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.runtimeconfig.dev.json
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.dll
+C:\Users\Dalyss\source\repos\Lab__05\bin\Debug\netcoreapp3.1\Lab__05.pdb
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.csprojAssemblyReference.cache
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.fMain.resources
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.csproj.GenerateResource.cache
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.AssemblyInfoInputs.cache
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.AssemblyInfo.cs
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.csproj.CoreCompileInputs.cache
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.dll
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.pdb
+C:\Users\Dalyss\source\repos\Lab__05\obj\Debug\netcoreapp3.1\Lab__05.genruntimeconfig.cache
